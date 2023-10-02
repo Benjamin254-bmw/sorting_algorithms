@@ -8,7 +8,7 @@
 #define UP 0
 #define DOWN 1
 
-/*
+/**
  * enum bool - Enumeration of Boolean values.
  * @false: Equals 0.
  * @true: Equals 1.
@@ -19,7 +19,7 @@ typedef enum bool
 	true
 } bool;
 
-/*
+/**
  * struct listint_s - Doubly linked list node
  *
  * @n: Integer stored in the node
